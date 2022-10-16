@@ -1,0 +1,13 @@
+{
+	"name": "demo",
+	"version": "0.1.0",
+	"type": "module",
+	"dependencies": {
+		"astro": "^1.5.0",
+		"my-package": "*"
+	},
+	"scripts": {
+		"dev": "astro dev",
+		"build": "astro build"
+	}
+}
